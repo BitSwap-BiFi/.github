@@ -13,3 +13,4 @@ The project is 100% independent
  - PoC
  - Assets DEX
  - API
+ - BITP
