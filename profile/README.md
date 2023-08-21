@@ -14,3 +14,4 @@ The project is 100% independent
  - Assets DEX
  - API
  - BITP
+ - FAQ
