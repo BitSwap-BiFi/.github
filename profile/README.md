@@ -7,7 +7,7 @@ The project is 100% independent
 
 ## Packages
 
- - Core
+ - [Core](https://github.com/BitSwap-BiFi/Bitswap-core)
  - Frontend
  - Backend
  - PoC
