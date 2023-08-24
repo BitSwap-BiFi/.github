@@ -15,3 +15,4 @@ The project is 100% independent
  - API
  - BITP
  - FAQ
+ - SDK
