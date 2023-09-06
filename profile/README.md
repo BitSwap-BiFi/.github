@@ -1,4 +1,4 @@
-## Btswap - AMM DEX on RGB Protocol ⚡💱₿
+## Bitswap - AMM DEX on RGB Protocol ⚡💱₿
 
 
 Bitswap is an Exchange Decentralized on RGB Protocol
