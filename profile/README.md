@@ -23,12 +23,9 @@ In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protoco
 
 ## Packages
 
- - [Core](https://github.com/BitSwap-BiFi/Bitswap-core)
- - Frontend
- - Backend
- - PoC
- - Assets DEX
- - API
- - BITP
- - FAQ
- - SDK
+ - [Core](https://github.com/BitSwap-BiFi/Bitswap-core) - Core functions about Bitswap
+ - [PoC](https://github.com/BitSwap-BiFi/Bitswap-PoC) - Proof of Concept and validation of the intial concept
+ - [Assets DEX](https://github.com/BitSwap-BiFi/assets-dex) - Future assets created by Bitswap team 
+ - [API](https://github.com/BitSwap-BiFi/Bitswap-API) - Future API created by Bitswap team
+ - [BITP](https://github.com/BitSwap-BiFi/BITP) - Core and specs about DEX
+ - [SDK](https://github.com/BitSwap-BiFi/bitswap-sdk) - SDK for integrations in wallets, exchanges, hardwallets, etc.
