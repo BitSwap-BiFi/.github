@@ -1,7 +1,7 @@
-## Bitswap - AMM DEX on RGB Protocol ⚡💱₿
+## Bitswap - AMM DEX on RGB Protocol  and LN⚡💱₿
 
 
-Bitswap is an Exchange Decentralized on RGB Protocol
+Bitswap is an Exchange Decentralized with Automated Market Maker on RGB Protocol and Lightning Network
 
 ## About
 
