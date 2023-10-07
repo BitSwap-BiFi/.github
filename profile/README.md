@@ -21,7 +21,7 @@ At its core, Bitswap serves as the catalyst for trustless and censorship-resista
 
 In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protocol asset diversity, DLCs for smart contracts, and a decentralized exchange to create a cutting-edge DeFi solution within the Bitcoin ecosystem. This protocol opens up new possibilities for secure, private, and efficient peer-to-peer asset exchange while leveraging the security and trust associated with the Bitcoin blockchain.
 
-## Packages
+## Products
 
  - [Core](https://github.com/BitSwap-BiFi/Bitswap-core) - Core functions about Bitswap
  - [PoC](https://github.com/BitSwap-BiFi/Bitswap-PoC) - Proof of Concept and validation of the intial concept
