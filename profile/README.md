@@ -1,3 +1,4 @@
+
 ## Bitswap - AMM DEX on RGB Protocol  and LN⚡💱₿
 
 
@@ -29,4 +30,5 @@ In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protoco
  - [API](https://github.com/BitSwap-BiFi/Bitswap-API) - Future API created by Bitswap team
  - [BITP](https://github.com/BitSwap-BiFi/BITP) - Core and specs about DEX
  - [SDK](https://github.com/BitSwap-BiFi/bitswap-sdk) - SDK for integrations in wallets, exchanges, hardwallets, etc.
- - [Documentation](https://github.com/BitSwap-BiFi/bitswap-docs) - Documentation detailed around Bitswap 
+ - [Documentation](https://github.com/BitSwap-BiFi/bitswap-docs) - Documentation detailed around Bitswap
+ - [FAQ](https://github.com/BitSwap-BiFi/Bitswap-FAQ) - Frequently asked question about Bitswap
