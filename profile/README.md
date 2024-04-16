@@ -35,6 +35,6 @@ In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protoco
  - [Interface](https://github.com/BitSwap-BiFi/bitswap-interface) - Future interface for DEX by Bitswap team
    
 
-## Website 
+## Web App
 
 Soon
