@@ -14,7 +14,7 @@ At its core, Bitswap serves as the catalyst for trustless and censorship-resista
 
 **Lightning Network:** By incorporating the Lightning Network, Bitswap introduces rapid transaction settlement and significantly reduces the cost of moving assets between users. This enables near-instant swaps and microtransactions, enhancing the user experience and reducing blockchain congestion.
 
-**RGB Protocol:** Bitswap utilizes the RGB protocol to tokenize assets on the Bitcoin blockchain securely. RGB brings the capability to issue and transfer a wide range of digital assets, including NFTs and tokenized securities, directly on the Bitcoin network. This ensures a diverse and comprehensive marketplace within the Bitswap ecosystem.
+**RGB Protocol:** Bitswap utilizes the RGB protocol to tokenize assets  and others on the Bitcoin blockchain securely with RGB25/RGB20. RGB brings the capability to issue and transfer a wide range of digital assets (RGB20) and tokenized securities (RGB25), directly on the Bitcoin network. This ensures a diverse and comprehensive marketplace within the Bitswap ecosystem.
 
  **Discreet Log Contracts (DLCs):** To enable smart contracts and conditional agreements, Bitswap integrates DLCs. These contracts allow users to create custom, trustless arrangements for asset swaps, hedging, and derivatives trading. The privacy and security of DLCs ensure that counterparties can engage in complex financial transactions without exposing sensitive information.
 
