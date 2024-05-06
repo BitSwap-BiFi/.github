@@ -24,7 +24,7 @@ In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protoco
 
 ## Products
 
- - [Core](https://github.com/BitSwap-BiFi/Bitswap-core-dev) - Core functionality about Bitswap
+ - [Core](https://github.com/BitSwap-BiFi/Bitswap-core-dev) - Core functionality about Bitswap with audited code
  - [PoC](https://github.com/BitSwap-BiFi/Bitswap-PoC) - Proof of Concept and validation of the intial concept
  - [Assets DEX](https://github.com/BitSwap-BiFi/assets-dex) - Future assets created by Bitswap team 
  - [API](https://github.com/BitSwap-BiFi/Bitswap-API) - Future API created by Bitswap team
