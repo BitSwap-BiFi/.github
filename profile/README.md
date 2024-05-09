@@ -20,7 +20,9 @@ At its core, Bitswap serves as the catalyst for trustless and censorship-resista
 
 **Decentralized Exchange (DEX):** Bitswap's DEX functionality empowers users to trade assets in a truly decentralized and non-custodial manner. Users maintain control of their private keys and assets throughout the exchange process, enhancing security and eliminating the risk associated with centralized exchanges.
 
-**Liquid Network**: Bitswap will use the sidechain for allow low fees and UTXOs cheap.
+**Liquid Network**: Bitswap will use the sidechain for allow low fees and UTXOs cheap, beyond to be cross-chain DEX.
+
+**SSI**: Bitswap utilizes SSI, which will allow use have more privacy tought independent identity and without need generate UTXOs.
 
 In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protocol asset diversity, DLCs for smart contracts, and a decentralized exchange to create a cutting-edge DeFi solution within the Bitcoin ecosystem. This protocol opens up new possibilities for secure, private, and efficient peer-to-peer asset exchange while leveraging the security and trust associated with the Bitcoin blockchain.
 
