@@ -24,7 +24,7 @@ At its core, Bitswap serves as the catalyst for trustless and censorship-resista
 
 **SSI**: Bitswap utilizes SSI, which will allow use have more privacy through independent identity and without need generate UTXOs.
 
-**Wallets**: Bitswap uses Bitlight Wallet and Bitmask, allowing major options to make payments over Lightning Network, access to the DeFi on Bitcoin and many more.
+**Wallets**: Bitswap uses  Bitmask, allowing major options to make payments over Lightning Network, access to the DeFi on Bitcoin and many more.
 
 In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protocol asset diversity, DLCs for smart contracts, and a decentralized exchange to create a cutting-edge DeFi solution within the Bitcoin ecosystem. This protocol opens up new possibilities for secure, private, and efficient peer-to-peer asset exchange while leveraging the security and trust associated with the Bitcoin blockchain.
 
