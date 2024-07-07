@@ -26,6 +26,8 @@ At its core, Bitswap serves as the catalyst for trustless and censorship-resista
 
 **Wallets**: Bitswap uses  Bitmask, allowing major options to make payments over Lightning Network, access to the DeFi on Bitcoin and many more.
 
+**Prime**: Bitswap will use Prime as scalable solution to allow fast transactions and low fees without need soft forks 
+
 In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protocol asset diversity, DLCs for smart contracts, and a decentralized exchange to create a cutting-edge DeFi solution within the Bitcoin ecosystem. This protocol opens up new possibilities for secure, private, and efficient peer-to-peer asset exchange while leveraging the security and trust associated with the Bitcoin blockchain.
 
 ## Products
