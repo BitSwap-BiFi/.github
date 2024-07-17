@@ -48,4 +48,6 @@ In summary, Bitswap combines AMM liquidity, Lightning Network speed, RGB protoco
 
 Soon
 
+## Independent project 
+
 **The Bitswap project is not owned by Bitlight Labs**
