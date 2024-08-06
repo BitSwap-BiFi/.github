@@ -51,3 +51,7 @@ Soon
 ## Independent project 
 
 **The Bitswap project is not owned by Bitlight Labs**
+
+## Shutdown project
+
+**The project will be discontinued in 2024 December**
